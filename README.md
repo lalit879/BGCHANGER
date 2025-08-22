@@ -2,7 +2,7 @@
 
 A simple yet elegant web application built with React and Tailwind CSS that allows users to dynamically change the background color of the page with the click of a button. This project serves as a great introduction to handling state in React using the `useState` hook.
 
-![React Background Changer GIF](https://drive.google.com/file/d/1X89jcupjG_JyCOwJrbYoZLAkWO50pcWy/view?usp=drive_link)
+![React Background Changer GIF](./assets/screenshot.png)
 *(Feel free to replace this GIF with your own screen recording!)*
 
 ---
